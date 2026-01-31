@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JuliettaOS/.github/main/profile/JuliettaOS%20Banner.png" alt="JuliettaOS Banner">
+</p>
+
 <h1 align="center">JuliettaOS</h1>
 
 <p align="center">
